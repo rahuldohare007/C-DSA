@@ -1,4 +1,3 @@
-// LeetCode 125: Valid Palindrome
 #include <bits/stdc++.h>
 using namespace std;
 
