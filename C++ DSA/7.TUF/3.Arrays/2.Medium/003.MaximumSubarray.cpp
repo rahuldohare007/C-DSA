@@ -1,4 +1,4 @@
-// LeetCode: 53. Maximum Subarray
+// LeetCode: 53. Maximum Subarray - Kadane's Algorithm
 
 #include <bits/stdc++.h>
 using namespace std;
